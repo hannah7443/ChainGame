@@ -3,8 +3,8 @@ ChainGame is a word-chaining game that rewards long, obscure English words. Star
 
 # Settings
 At the game start, the player is prompted for two settings:
-Turns: The player can choose how many times they will input a word to create the chain.
-Starting word: The player must choose a starting word. Any word that is in the English language is valid. This will begin the word chain.
+1. Turns: The player can choose how many times they will input a word to create the chain.
+2. Starting word: The player must choose a starting word. Any word that is in the English language is valid. This will begin the word chain.
 
 # Rules of Play
 1. The game begins with the number of turns chosen by the user and the starting word. The goal is to earn the highest score after the number of turns chosen.
